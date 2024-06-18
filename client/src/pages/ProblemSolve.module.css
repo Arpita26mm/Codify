@@ -1,0 +1,9 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.problemSolve {
+  background-image: url("https://aboffs.com/cdn/shop/products/088-summerpeach_2000x.jpg?v=1587069243");
+  background-size: cover;
+  background-position: center;
+}
