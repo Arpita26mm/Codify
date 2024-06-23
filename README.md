@@ -3,7 +3,7 @@
 
 # 💻 CODIFY 
 <h3>🔗 Link to Codify : https://www.codifyit.xyz </h3>
-<h3>🔗 Link to demo video : https://www.loom.com/share/a60a9611fb13429db35c6d4690c4d596?sid=5f954430-6059-4cb6-9586-852e2585610b </h3>
+
 
 Description📄:
 
@@ -76,3 +76,5 @@ This platform provides a real time execution feature due to which users receive 
 <p align="center">
   <img src="https://github.com/Arpita26mm/MERN1/assets/100471667/988be3f7-3fad-46b7-9a58-71db688ba2d3" alt="Description of image 1" width="323" height="190">
 </p>
+
+<h3>🔗 Link to demo video : https://www.loom.com/share/a60a9611fb13429db35c6d4690c4d596?sid=5f954430-6059-4cb6-9586-852e2585610b </h3>
